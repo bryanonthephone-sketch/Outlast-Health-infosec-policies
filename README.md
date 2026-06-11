@@ -1,2 +1,2 @@
 # Outlast-Health-infosec-policies
-A full NIST Cybersecurity Framework(CSF) assessment for an imaginary organization across five core functions which are: Identify, Protect, Detect, Respond, Recover. There is a formal finding reports that contains ratings of risk and remediation recommendations in prioritization format.
+A comprehensive Information Security Policy Suite for an imaginary 120 person outpatient practice that houses its base of operations within Brooklyn, New York. Protected health information is handled for approximately 8,000 patients who are currently active. The organization is subject to HIPAA compliance requirements. The suite includes an Acceptable Use Policy, Data Classification Policy(4-tier model)
