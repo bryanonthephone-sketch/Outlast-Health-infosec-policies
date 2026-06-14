@@ -48,7 +48,6 @@ outlast-infosec-policy-suite/
 │   └── 04-Incident-Response-Plan.pdf
 │
 └── supporting-docs/
-    ├── Policy-Index.md
     └── Framework-Mapping.md
 ```
 
