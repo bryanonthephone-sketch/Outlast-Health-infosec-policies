@@ -5,9 +5,13 @@
 A comprehensive Information Security Policy Suite developed for a simulated 120-person outpatient medical practice based in Brooklyn, New York. The clinic named Outlast Health Clinic manages protected health information(PHI) for approximately 8,000 active patients and is operating under the HIPAA Privacy and Security Rules. This is solely a portfolio exercise to demonstrate my practical GRC skills which include the development of policies, research of regulations, and application of security frameworks.
 
 **SECTION 2 - POLICY INDEX**
+
     1. Acceptable Use Policy | Version 1.0 | Effective June 9, 2026 | Ensures the use of company technology and systems is governed
+    
     2. Data Classification Policy | Verison 1.0 | Effective June 10, 2026 | Ensures a four-tier data classification framework is established for PHI and data of the organization
+    
     3. Access Control Policy | Version 1.0 | Effective June 11, 2026 | Ensures access provisioning is defined, as well as least privilege and requirements for MFA
+    
     4. Incident Response Plan | Version 1.0 | Effective June 14, 2026 | Ensures the procedures are outlined for detection, containment, and recovery from incidents of security
 
 **SECTION 3 - FRAMEWORKS & STANDARDS REFERENCED**
