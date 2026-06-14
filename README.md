@@ -52,6 +52,6 @@ outlast-infosec-policy-suite/
     └── Framework-Mapping.md
 ```
 
-**Section 6 — Note on Simulation**
+**SECTION 6 - NOTE**
 
 *"The Outlast Health Clinic is purely fictional and created only for purposes of education and portfolio purposes. All the policies here were developed using frameworks of the industry and requirements of regulations. There is no real patient data or information of any organization used."*
