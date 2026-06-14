@@ -1,4 +1,4 @@
-# Framework Mapping — Outlast Health Clinic Policy Suite
+# Framework Mapping of Outlast Health Clinic Policy Suite
 
 | Policy | NIST CSF Function | Standards Referenced |
 |--------|-------------------|----------------------|
