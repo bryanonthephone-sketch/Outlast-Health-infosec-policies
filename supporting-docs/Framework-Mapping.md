@@ -1,7 +1,6 @@
 # Framework Mapping — Outlast Health Clinic Policy Suite
 
-**| Policy | NIST CSF Function | Standards Referenced |**
-:-----:
+| Policy | NIST CSF Function | Standards Referenced |
 |--------|-------------------|----------------------|
 | Acceptable Use Policy | Protect | HIPAA Security Rule |
 | Data Classification Policy | Identify, Protect | HIPAA Privacy Rule, Minimum Necessary Standard |
